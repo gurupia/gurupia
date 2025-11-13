@@ -1,6 +1,12 @@
 ### Hi there 👋
 Reference Repository Fork and My Private Project Repository
-
+The codes in this repository were developed or documented and refactored in collaboration with the following AI models.
+(이 저장소의 코드들은 다음 AI 모델들과 협업하여 개발되거나 문서화 및 리팩토링 되었습니다.)
+Using AI Model List: 
+1. claude cli
+2. gemini build, gemini cli
+3. codex cli
+4. github copilot
 <!--
 **gurupia/gurupia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
