@@ -23,6 +23,7 @@ The codes in this repository have been developed, documented and refactored in c
 4. chatGPT(5.0 mini)
 5. Local LLM Tools(ollama, LMStudio)
 6. CODEX (Will be used)
+7. AI Image Create (StableDiffusion, Gemini, Copilot, ETC...)
  
 <!--
 **gurupia/gurupia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
