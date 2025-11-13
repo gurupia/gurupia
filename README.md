@@ -6,11 +6,11 @@
 2. Visual Stduio Build Tools
 3. Cursor AI Editor
 4. Visual Studio Code
-5. GCC Compiler
+5. GCC Compiler(Used for OpenSource Project)
 6. Android Stduio( apk build & Test)
-7. Visual Stduio 6.0(Legacy)
-8. Assembly(MASM, NASM, FASM)
-11. ETC Scripts(Python, JavaScript, TypeScript, Batch, VBS, Powershell, AutoHotkey, AutoIT)
+7. Visual Stduio 6.0(Legacy Code)
+8. Assembly(MASM, NASM, FASM) - Performance Optimazation
+11. ETC Scripts(Python, JavaScript, TypeScript, Batch, VBS, Powershell, AutoHotkey, AutoIT) - Prototyping and Simple App Development
 12. Object Pascal(Delphi 3.0~7.0,FPC,LAZARUS)
 
 The codes in this repository have been developed, documented and refactored in collaboration with the following AI models, with the exception of forked repositories.  
