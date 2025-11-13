@@ -16,7 +16,7 @@
 The codes in this repository have been developed, documented and refactored in collaboration with the following AI models, with the exception of forked repositories.  
 (이 저장소의 코드들은 포크한 저장소를 제외하고 다음 AI 모델들과 협업하여 개발되거나 문서화 및 리팩토링 되었습니다.)    
 
-## Using AI Model List: 
+## Used AI Model List: 
 1. claude(sonet 4.5, claude code, claude cli)
 2. gemini(pro, 2.5 flash, gemini build, gemini cli)
 3. github copilot 
