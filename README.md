@@ -9,7 +9,7 @@
 5. GCC Compiler(Used for OpenSource Project)
 6. Android Stduio( apk build & Test)
 7. Visual Stduio 6.0(Legacy Code)
-8. Assembly(MASM, NASM, FASM) - Performance Optimazation
+8. Assembler(MASM, NASM, FASM) - Performance Optimazation
 11. ETC Scripts(Python, JavaScript, TypeScript, Batch, VBS, Powershell, AutoHotkey, AutoIT) - Prototyping and Simple App Development
 12. Object Pascal(Delphi 3.0~7.0,FPC,LAZARUS)
 
