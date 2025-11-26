@@ -18,7 +18,7 @@ The codes in this repository have been developed, documented and refactored in c
 
 ## Used AI Model List: 
 1. claude(sonet 4.5, claude code, claude cli)
-2. gemini(pro, 2.5 flash, gemini build, gemini cli)
+2. google (gemini 2.5 pro, 2.5 flash, gemini 3.0, Antigravity IDE, ai studio build, gemini cli)
 3. github copilot 
 4. chatGPT(5.0 mini)
 5. Local LLM Tools(ollama, LMStudio)
