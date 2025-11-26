@@ -4,12 +4,13 @@
 # Used Major Development Tools and Programming Language List:  
 1. Visual Stduio 2022 Community
 2. Visual Stduio Build Tools
-3. Cursor AI Editor
-4. Visual Studio Code
-5. GCC Compiler(Used for OpenSource Project)
-6. Android Stduio( apk build & Test)
-7. Visual Stduio 6.0(Legacy Code)
-8. Assembler(MASM, NASM, FASM) - Performance Optimazation
+3. Antigravity(AI Model: gemini 3.0 pro, claude sonet 4.5, GPT-OSS)
+4. Cursor AI Editor
+5. Visual Studio Code
+6. GCC Compiler(Used for OpenSource Project)
+7. Android Stduio( apk build & Test)
+8. Visual Stduio 6.0(Legacy Code)
+9. Assembler(MASM, NASM, FASM) - Performance Optimazation
 11. ETC Scripts(Python, JavaScript, TypeScript, Batch, VBS, Powershell, AutoHotkey, AutoIT) - Prototyping and Simple App Development
 12. Object Pascal(Delphi 3.0~7.0,FPC,LAZARUS)
 
