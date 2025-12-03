@@ -2,7 +2,7 @@
 # Reference Repository Fork and Private Project Repository  
 # licenses for codes can be subordinate to licenses in each repository.
 # Used Major Development Tools and Programming Language List:  
-1. Visual Stduio 2022 Community
+1. Visual Stduio 2022/2026 Community
 2. Visual Stduio Build Tools
 3. Antigravity(AI Model: gemini 3.0 pro, claude sonet 4.5, GPT-OSS)
 4. Cursor AI Editor
