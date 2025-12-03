@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Reference Repository Fork and My Private Project Repository  
+# Reference Repository Fork and Private Project Repository  
 # licenses for codes can be subordinate to licenses in each repository.
 # Used Major Development Tools and Programming Language List:  
 1. Visual Stduio 2022 Community
