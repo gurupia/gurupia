@@ -1,43 +1,46 @@
-### Hi there 👋
-# https://gurupia.github.io
-# Reference Repository Fork and Private Project Repository  
-# licenses for codes can be subordinate to licenses in each repository.
-# Used Major Development Tools and Programming Language List:  
-1. Visual Stduio 2022/2026 Community
-2. Visual Stduio Build Tools
-3. Antigravity(AI Model: gemini 3.0 pro, claude sonet 4.5, GPT-OSS)
-4. Cursor AI Editor
-5. Visual Studio Code
-6. GCC Compiler(Used for OpenSource Project)
-7. Android Stduio( apk build & Test)
-8. Visual Stduio 6.0(Legacy Code)
-9. Assembler(MASM, NASM, FASM) - Performance Optimazation
-11. ETC Scripts(Python, JavaScript, TypeScript, Batch, VBS, Powershell, AutoHotkey, AutoIT) - Prototyping and Simple App Development
-12. Object Pascal(Delphi 3.0~7.0,FPC,LAZARUS)
+# Hi there, I'm gurupia 👋
 
-The codes in this repository have been developed, documented and refactored in collaboration with the following AI models, with the exception of forked repositories.  
-(이 저장소의 코드들은 포크한 저장소를 제외하고 다음 AI 모델들과 협업하여 개발되거나 문서화 및 리팩토링 되었습니다.)    
+[![Website](https://img.shields.io/badge/Website-gurupia.github.io-2ea44f?style=flat-square&logo=github)](https://gurupia.github.io)
 
-## Used AI Model List: 
-1. claude(sonet 4.5, claude code, claude cli)
-2. google (gemini 2.5 pro, 2.5 flash, gemini 3.0, Antigravity IDE, ai studio build, gemini cli)
-3. github copilot 
-4. chatGPT(5.0 mini)
-5. Local LLM Tools(ollama, LMStudio)
-6. CODEX (Will be used)
-7. AI Image Create (StableDiffusion, Gemini, Copilot, ETC...)
- 
-<!--
-**gurupia/gurupia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile. This repository serves as a workspace and index for private project repositories, technical experiments, and curated reference forks.
 
-Here are some ideas to get you started:
+> **Notice & Licensing**  
+> Licenses for projects in this workspace are subordinate to the respective license specified in each repository. Forked repositories remain subject to their original upstream licenses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack & Tools
+
+### Systems, Native & Low-Level
+- **Assembly:** MASM, NASM, FASM *(Performance Optimization & Low-Level Architecture)*
+- **C/C++ & Native Toolchains:** Visual Studio (2022 / 2026 Community, Build Tools, Legacy 6.0), GCC
+- **Object Pascal:** Delphi (3.0 – 7.0), Free Pascal (FPC), Lazarus
+- **Mobile & Embedded:** Android Studio *(APK Build & Device Testing)*
+
+### Scripting, Prototyping & Automation
+- **Scripting & Languages:** Python, TypeScript, JavaScript
+- **Windows Automation & Shell:** PowerShell, Batch, VBS, AutoHotkey (AHK), AutoIt
+
+### Editors & Development Environments
+- **AI-Powered IDEs:** Antigravity IDE, Cursor AI
+- **General Purpose:** Visual Studio Code, Visual Studio
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+The original codebases, technical documentation, and architectural designs across these repositories are developed, refactored, and maintained in collaboration with modern AI models and agentic workflows (excluding upstream forks).
+
+*(이 저장소의 코드들은 포크된 저장소를 제외하고 AI 모델 및 개발 도구와의 협업을 통해 설계·문서화·리팩토링되었습니다.)*
+
+### Integrated AI Ecosystem
+- **Anthropic:** Claude (Sonnet 4.5, Claude Code, Claude CLI)
+- **Google:** Gemini (Gemini 3.0, 2.5 Pro, 2.5 Flash), Antigravity IDE, Google AI Studio, Gemini CLI
+- **Microsoft & OpenAI:** GitHub Copilot, ChatGPT (5.0 mini), Codex
+- **Local & Open LLMs:** Ollama, LM Studio, GPT-OSS
+- **Generative Media:** Stable Diffusion, Gemini, Microsoft Copilot Designer
+
+---
+
+## 🌐 Connect
+- **Homepage:** [gurupia.github.io](https://gurupia.github.io)
