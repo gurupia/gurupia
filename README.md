@@ -13,7 +13,7 @@ This repository serves as both a public portfolio and a central index for my eng
 ## 🏛 Core Competencies & Architecture
 
 ### Low-Level & Systems Engineering
-- **Languages:** Assembly (MASM, NASM, FASM), C/C++, Object Pascal (Delphi, FPC, Lazarus)
+- **Languages:** Assembly (MASM, NASM, FASM), C/C++, Object Pascal (Delphi, FPC, Lazarus), RUST
 - **Focus Areas:** Performance Optimization, Memory & Native Runtime, Binary Analysis, Win32 Internals
 - **Native Toolchains:** Visual Studio (Modern & Legacy Toolchains), GCC, Android NDK/Studio
 
