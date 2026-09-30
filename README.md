@@ -2,45 +2,40 @@
 
 [![Website](https://img.shields.io/badge/Website-gurupia.github.io-2ea44f?style=flat-square&logo=github)](https://gurupia.github.io)
 
-Welcome to my profile. This repository serves as a workspace and index for private project repositories, technical experiments, and curated reference forks.
+Software engineer and builder focused on **low-level systems, native architecture, and AI-augmented workflows**.  
+This repository serves as both a public portfolio and a central index for my engineering archives, technical prototypes, and reference research.
 
-> **Notice & Licensing**  
-> Licenses for projects in this workspace are subordinate to the respective license specified in each repository. Forked repositories remain subject to their original upstream licenses.
-
----
-
-## 🛠 Tech Stack & Tools
-
-### Systems, Native & Low-Level
-- **Assembly:** MASM, NASM, FASM *(Performance Optimization & Low-Level Architecture)*
-- **C/C++ & Native Toolchains:** Visual Studio (2022 / 2026 Community, Build Tools, Legacy 6.0), GCC
-- **Object Pascal:** Delphi (3.0 – 7.0), Free Pascal (FPC), Lazarus
-- **Mobile & Embedded:** Android Studio *(APK Build & Device Testing)*
-
-### Scripting, Prototyping & Automation
-- **Scripting & Languages:** Python, TypeScript, JavaScript
-- **Windows Automation & Shell:** PowerShell, Batch, VBS, AutoHotkey (AHK), AutoIt
-
-### Editors & Development Environments
-- **AI-Powered IDEs:** Antigravity IDE, Cursor AI
-- **General Purpose:** Visual Studio Code, Visual Studio
+> 💡 **Repository Notice & Licensing**  
+> Original projects, experiments, and architectural designs here are developed under their respective repository licenses. Forked projects and reference codebases remain subject to their original upstream licenses.
 
 ---
 
-## 🤖 AI-Assisted Engineering
+## 🏛 Core Competencies & Architecture
 
-The original codebases, technical documentation, and architectural designs across these repositories are developed, refactored, and maintained in collaboration with modern AI models and agentic workflows (excluding upstream forks).
+### Low-Level & Systems Engineering
+- **Languages:** Assembly (MASM, NASM, FASM), C/C++, Object Pascal (Delphi, FPC, Lazarus)
+- **Focus Areas:** Performance Optimization, Memory & Native Runtime, Binary Analysis, Win32 Internals
+- **Native Toolchains:** Visual Studio (Modern & Legacy Toolchains), GCC, Android NDK/Studio
 
-*(이 저장소의 코드들은 포크된 저장소를 제외하고 AI 모델 및 개발 도구와의 협업을 통해 설계·문서화·리팩토링되었습니다.)*
+### Automation, Scripting & Prototyping
+- **Modern Scripting:** Python, TypeScript, JavaScript
+- **System Automation:** PowerShell, Windows Shell Scripting, AutoHotkey, AutoIt
 
-### Integrated AI Ecosystem
-- **Anthropic:** Claude (Sonnet 4.5, Claude Code, Claude CLI)
-- **Google:** Gemini (Gemini 3.0, 2.5 Pro, 2.5 Flash), Antigravity IDE, Google AI Studio, Gemini CLI
-- **Microsoft & OpenAI:** GitHub Copilot, ChatGPT (5.0 mini), Codex
-- **Local & Open LLMs:** Ollama, LM Studio, GPT-OSS
-- **Generative Media:** Stable Diffusion, Gemini, Microsoft Copilot Designer
+### AI-Augmented Engineering
+- **Engineering Philosophy:** Active pair-programming and refactoring driven by state-of-the-art LLMs (Claude, Gemini) and agentic IDE environments.
+- **Workflow & Environments:** Antigravity IDE, Cursor, Local LLM Orchestration (Ollama, LM Studio), API-driven code synthesis.
+
+---
+
+## 📂 Featured Workspaces & Focus
+
+| Focus Area | Description |
+| :--- | :--- |
+| **System Utilities & Internals** | High-performance utilities, zero-copy pipelines, and native optimization experiments. |
+| **Automation & Tooling** | Custom workflow automation, system-level scripting, and productivity pipelines. |
+| **AI Systems & Agents** | Agentic workflows, prompt-driven architecture, and local model integrations. |
 
 ---
 
 ## 🌐 Connect
-- **Homepage:** [gurupia.github.io](https://gurupia.github.io)
+- **Website:** [gurupia.github.io](https://gurupia.github.io)
