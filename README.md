@@ -1,41 +1,55 @@
 # Hi there, I'm gurupia 👋
 
 [![Website](https://img.shields.io/badge/Website-gurupia.github.io-2ea44f?style=flat-square&logo=github)](https://gurupia.github.io)
+[![Tech Blog](https://img.shields.io/badge/Blog-gurupia.dev-blue?style=flat-square)](https://www.gurupia.dev)
 
-Software engineer and builder focused on **low-level systems, native architecture, and AI-augmented workflows**.  
-This repository serves as both a public portfolio and a central index for my engineering archives, technical prototypes, and reference research.
+Systems software engineer & security researcher focusing on **low-level Windows internals, native runtime architectures, and AI-augmented engineering**.  
+This space serves as a central index for my public research, private engineering workspaces, and open-source contributions.
 
-> 💡 **Repository Notice & Licensing**  
-> Original projects, experiments, and architectural designs here are developed under their respective repository licenses. Forked projects and reference codebases remain subject to their original upstream licenses.
-
----
-
-## 🏛 Core Competencies & Architecture
-
-### Low-Level & Systems Engineering
-- **Languages:** Assembly (MASM, NASM, FASM), C/C++, Object Pascal (Delphi, FPC, Lazarus), RUST
-- **Focus Areas:** Performance Optimization, Memory & Native Runtime, Binary Analysis, Win32 Internals
-- **Native Toolchains:** Visual Studio (Modern & Legacy Toolchains), GCC, Android NDK/Studio
-
-### Automation, Scripting & Prototyping
-- **Modern Scripting:** Python, TypeScript, JavaScript
-- **System Automation:** PowerShell, Windows Shell Scripting, AutoHotkey, AutoIt
-
-### AI-Augmented Engineering
-- **Engineering Philosophy:** Active pair-programming and refactoring driven by state-of-the-art LLMs (Claude, Gemini) and agentic IDE environments.
-- **Workflow & Environments:** Antigravity IDE, Cursor, Local LLM Orchestration (Ollama, LM Studio), API-driven code synthesis.
+> 💡 **Notice & Licensing**  
+> Original projects and architectural research here are subject to their respective repository licenses. Forked and reference projects adhere to upstream open-source licenses.
 
 ---
 
-## 📂 Featured Workspaces & Focus
+## 🏛 Core Competencies
 
-| Focus Area | Description |
-| :--- | :--- |
-| **System Utilities & Internals** | High-performance utilities, zero-copy pipelines, and native optimization experiments. |
-| **Automation & Tooling** | Custom workflow automation, system-level scripting, and productivity pipelines. |
-| **AI Systems & Agents** | Agentic workflows, prompt-driven architecture, and local model integrations. |
+- **Low-Level & Systems Programming:** Assembly (MASM/NASM), C/C++, Object Pascal (Delphi/FPC), Win32 Internals, Memory Management, PE/Binary Analysis.
+- **Performance & Media Pipelines:** Zero-copy architectures, hardware acceleration (NVENC), low-latency IPC.
+- **Security & Virtualization:** Custom Virtual Machine (V-CPU) design, anti-reversing/anti-debugging mechanisms, network packet fragmentation.
+- **AI-Augmented Engineering:** Designing deterministic agentic workflows, LLM orchestration (Claude, Gemini), and modern developer tooling.
 
 ---
 
-## 🌐 Connect
+## 🚀 Featured Projects & Archives
+
+### 🌟 Public Showcase & Research
+* **[GurupiaProtector](https://github.com/gurupia/GurupiaProtector)**  
+  *User-Mode Code Virtualization & Binary Protection Engine*
+  - Designed a proprietary **Virtual Instruction Set (VIS)** and high-speed V-CPU interpreter.
+  - Implemented zero-copy virtual loading, selective dynamic virtualization, and hardware breakpoint detection.
+  - [Read Architecture Analysis & Benchmark Report](https://www.gurupia.dev/entry/GurupiaProtector-vs-%EC%83%81%EC%9A%A9-%EC%86%94%EB%A3%A8%EC%85%98VMProtect-Themida-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%EA%B2%B0%EA%B3%BC-%EB%A6%AC%ED%8F%AC%ED%8A%B8)
+
+* **[gurupia.github.io](https://github.com/gurupia/gurupia.github.io)**  
+  *Personal knowledge base, documentation site, and engineering logs.*
+
+---
+
+### 🔬 Selected Private Workspaces & Prototypes `[Private]`
+*(Architecture summaries of active internal research and private repositories)*
+
+| Project / Domain | Tech Stack | Architectural Highlights |
+| :--- | :--- | :--- |
+| **High-Performance Capture Engine** | C++, Win32, NVENC, MF | Zero-copy screen recording engine combining Media Foundation and hardware encoding. |
+| **Network Security Utility** | Rust / C, Win32 Network API | Low-level packet inspection, DNS-over-HTTPS (DoH), and socket fragmentation. |
+| **Agentic Workflow Harness** | Python, Local LLMs, SQLite | Autonomous consistency checking and state-tracking harness for complex long-form documents. |
+
+---
+
+## 🤝 Open Source & Upstream Contributions
+- Active participant and contributor to native Windows system utilities, system monitoring tools, and developer ecosystems (e.g., `System Informer`, `UniGetUI`, `ImHex`).
+
+---
+
+## 🌐 Connect & Deep Dives
 - **Website:** [gurupia.github.io](https://gurupia.github.io)
+- **Technical Log:** [gurupia.dev](https://www.gurupia.dev)
